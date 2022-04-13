@@ -1,0 +1,15 @@
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\bin\Debug\Tel.Rehberi.exe.config
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\bin\Debug\Tel.Rehberi.exe
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\bin\Debug\Tel.Rehberi.pdb
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel. Rehberi.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel. Rehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel.Rehberi.FrmLogin.resources
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel.Rehberi.FrmRehber.resources
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel.Rehberi.Properties.Resources.resources
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel. Rehberi.csproj.GenerateResource.cache
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel. Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel. Rehberi.csproj.CopyComplete
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel.Rehberi.exe
+C:\Users\Golt1on\source\repos\Ders 2\Tel. Rehberi\obj\Debug\Tel.Rehberi.pdb
