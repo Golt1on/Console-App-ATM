@@ -1,0 +1,8 @@
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\bin\Debug\ConsoleAppATM.exe.config
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\bin\Debug\ConsoleAppATM.exe
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\bin\Debug\ConsoleAppATM.pdb
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\obj\Debug\ConsoleAppATM.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\obj\Debug\ConsoleAppATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\obj\Debug\ConsoleAppATM.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\obj\Debug\ConsoleAppATM.exe
+C:\Users\Golt1on\source\repos\Ders 2\ConsoleAppATM\obj\Debug\ConsoleAppATM.pdb
